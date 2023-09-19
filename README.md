@@ -1,4 +1,5 @@
 # CODESOFT Internship Tasks
+
 ## Task 1: Number Game
 
 ### Task Description
