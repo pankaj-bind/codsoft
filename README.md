@@ -18,8 +18,8 @@
 
 ### Implementation Details
 
-Add details about the implementation of the Number Game task.
-
+Run ```javac NumberGameGUI.java``` in terminal
+then ```java NumberGameGUI```
 ---
 
 ## Task 2: Student Grade Calculator
@@ -40,7 +40,8 @@ Display Results: Show the total marks, average percentage, and the corresponding
 
 ### Implementation Details
 
-Add details about the implementation of the Student Grade Calculator task.
+Run ```javac GradeCalculator.java``` in terminal
+then ```java GradeCalculator```
 
 ---
 
@@ -64,7 +65,8 @@ Add details about the implementation of the Student Grade Calculator task.
 
 ### Implementation Details
 
-Add details about the implementation of the ATM Interface task.
+Run ```javac ATMGUI.java``` in terminal
+then ```java ATMGUI```
 
 ---
 
@@ -85,7 +87,8 @@ Result Screen: Display the final score and a summary of correct/incorrect answer
 
 ### Implementation Details
 
-Add details about the implementation of the Quiz Application task.
+Run ```javac QuizApplication.java``` in terminal
+then ```java QuizApplication```
 
 ---
 
@@ -106,4 +109,5 @@ Course Removal: Enable students to drop courses they have registered for.
 
 ### Implementation Details
 
-Add details about the implementation of the Course Registration System task.
+Run ```javac StudentCourseRegistrationSystem.java``` in terminal
+then ```java StudentCourseRegistrationSystem```
