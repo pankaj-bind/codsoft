@@ -18,8 +18,8 @@
 
 ### Implementation Details
 
-Run ```javac NumberGameGUI.java``` in terminal
-then ```java NumberGameGUI```
+Run javac NumberGameGUI.java in terminal
+then java NumberGameGUI
 ---
 
 ## Task 2: Student Grade Calculator
