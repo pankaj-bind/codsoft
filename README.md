@@ -1,37 +1,3 @@
-# Task Name
-
-## Task Description
-
-Briefly describe the task.
-
-### Task Images
-
-![Image 1](link_to_image1)
-![Image 2](link_to_image2)
-
-## Task Implementation
-
-### Task 1: Number Game
-
-Description of the Number Game task.
-
-### Task 2: Student Grade Calculator
-
-Description of the Student Grade Calculator task.
-
-### Task 3: ATM Interface
-
-Description of the ATM Interface task.
-
-### Task 4: Quiz Application With Timer
-
-Description of the Quiz Application task.
-
-### Task 5: Student Course Registration System
-
-Description of the Course Registration System task.
-
----
 
 ## Task 1: Number Game
 
